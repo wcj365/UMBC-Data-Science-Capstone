@@ -1,23 +1,23 @@
-# The Structure and Requirements of Project Proposal and Final Report
+# The Template and Guideline for the Final Report
 
-- This serves as a guide for developing project proposal which will eventually become the final report.
+- This document serves as a guide for developing project proposal which will eventually become the final report.
 - You start with the end in mind and adopt an agile approach:
-  - making progress continuously towards your goal.
+  - Making progress continuously towards your goal.
   - Updating this document continuously along the way.
  
 ## 1. Title and Author
 
 - Project Title
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- Author 
+- Author Name 
 - Link to the author's GitHub profile
 - Link to the author's LinkedIn progile
 - Link to your PowerPoint presentation file
-- Link to your  YouTube video 
+- Link to your YouTube video 
     
 ## 2. Background
 
-Provide the background information about the chosen topic.
+Provide the background information about the chosen topic. 
 
 - What is it about? 
 - Why does it matter? 
@@ -30,6 +30,7 @@ Describe the datasets you are using to answer your research questions.
 - Data sources
 - Data size (MB, GB, etc.)
 - Data shape (# of rows and # columns)
+- Time period (for example, 2010 to 2020) if your data are time-bound
 - **What does each row represent?(a patient, a school, a crime, etc.)**
 - Data dictionary
   - Columns name
@@ -37,18 +38,18 @@ Describe the datasets you are using to answer your research questions.
   - Defition
   - Potential values (for categorical valuables, what are the categories?)
 - Which variable/column will be your target/label in your ML model?
-- Which variables/columns may selected as features/predictors for your ML models?
+- Which variables/columns may be selected as features/predictors for your ML models?
 
 ## 4. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
 - You would focus on the target variable and the selected features and drop all other columns.
 - produce summary statistics of key variables
-- Create visualizations (I recommend using Plotly)
+- Create visualizations (I recommend using **Plotly Express**)
 - Find out if the data require cleansing:
-  - missing values?
-  - duplicate rows? 
-- Find out if the data require splitting, merging, pivoting, etc.
+  - Missing values?
+  - Duplicate rows? 
+- Find out if the data require splitting, merging, pivoting, melting, etc.
 - Find out if you need to bring in other data sources to augment your data.
   - For example, population, socioeconomic data from Census may be helpful.
 - For textual data, you will pre-process (normalize, remove stopwords, tokenize) them before you can analyze them in predictive analysis/machine learning.
@@ -69,7 +70,7 @@ Describe the datasets you are using to answer your research questions.
 
 Develop a web app for people to interact with your trained models. Potential tools for web app development:
 
-- Streamlit (recommended)
+- **Streamlit** (recommended for its simplicity and ease to learn)
 - Dash
 - Flask
 
