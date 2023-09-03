@@ -1,6 +1,6 @@
 # The Template and Guideline for the Final Report
 
-- This document serves as a guide for developing project proposal which will eventually become the final report.
+- This document serves as a guide for developing project proposal which will eventually become the proposal and final report.
 - You start with the end in mind and adopt an agile approach:
   - Making progress continuously towards your goal.
   - Updating this document continuously along the way.
