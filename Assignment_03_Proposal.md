@@ -1,6 +1,6 @@
 # Assignment 03 - Proposal Developent
 
-- Review this requirements document [Structure and Requirements of Project Proposal and Final Report](Project_Proposal.md)
+- Review this requirements document [The Structure and Requirements of Project Proposal and Final Report](Structure_Requirements.md)
 - Find a topic and data sources for that topic.
 - Get the datasets.
 - Create a Jupyter Notebook to explore the datasets.
