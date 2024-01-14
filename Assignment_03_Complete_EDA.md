@@ -1,11 +1,11 @@
-# Assignment 04 - Complete EDA
+# Assignment 03 - Complete EDA
 - Complete your EDA
 - Update your project report (your proposal now becomes project report)
   - Update Section 1, 2 and 3 with more details.
   - Complete Section 4 - EDA
     - Include description on data cleansing and preparation
     - Include visualizations and interpretations
-- Update your Jupyter Notebook and upload it to the `src` subfolder.
+- Update your Jupyter Notebook and upload it to the `notebooks` subfolder.
   - Make sure you include with Markdown cells to describe your process
   - Make sure you add comments to your code 
 - You will be graded based on the following:
