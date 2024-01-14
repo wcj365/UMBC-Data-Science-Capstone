@@ -3,10 +3,17 @@
 - Please use your **personal email** (not UMBC student email) to create a GitHub account.
   - You should use your existing GitHub account if you already have one associated with your personal email.
 - Create a **PUBLIC** repository in GitHub and name it **"UMBC-DATA606-Capstone"**.
-- Create a resume using **Markdown** format (.md) and save it in the above repository with the file name: "Resume.md".
+- Create a file called "README.md" in the root folder of the repository
+- Create a subfolder in this repository named "data"
+  - Create a README.md file in this subfolder
+- Create a subfolder in this repository named "src"
+  - Create a README.md file in this subfolder
+- Create a subfolder in this repository named "docs"
+  - Create a README.md file in this subfolder
+  - Create a resume using **Markdown** format (.md) and save it in the above repository with the file name: "Resume.md".
   - **Don't use Jupyter Notebook**. Just use a plain text file.
   - If you are not familiar with Markdown, please take some time to learn and practice it.
-    - Do not write HTML code in the Markdown file
+  - Do not write HTML code in the Markdown file
   - Your resume must be **well formatted/styled** and **professionally looking** by utilizing various **Markdown tags/syntaxes**. 
   - Your resume must include a picture of your **headshot photo**. Your headshot photo must be uploaded to the above repository.
   - Your resume must provide good details about your educations and experiences. 
