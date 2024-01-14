@@ -6,7 +6,9 @@
 - Create a file called "README.md" in the root folder of the repository
 - Create a subfolder in this repository named "data"
   - Create a README.md file in this subfolder
-- Create a subfolder in this repository named "src"
+- Create a subfolder in this repository named "notebooks"
+  - Create a README.md file in this subfolder
+- Create a subfolder in this repository named "app"
   - Create a README.md file in this subfolder
 - Create a subfolder in this repository named "docs"
   - Create a README.md file in this subfolder
