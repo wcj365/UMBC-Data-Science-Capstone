@@ -12,4 +12,4 @@
 - You must communicate well about your project in a very cealr and logical way without burdening your audiences with too much details.
 
 You don't need to complete your project report and record video before your presentation. 
-They are part of the final deliverable which is due Dec 17.
+They are part of the final deliverable which is due later.
