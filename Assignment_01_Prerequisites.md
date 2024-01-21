@@ -1,4 +1,4 @@
-# Assignment 01 - Preparation
+# Assignment 01 - Prerequisites
 
 - Please use your **personal email** (not UMBC student email) to create a GitHub account.
   - You should use your existing GitHub account if you already have one associated with your personal email.
