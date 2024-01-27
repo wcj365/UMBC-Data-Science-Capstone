@@ -1,6 +1,6 @@
 # Assignment 02 - Proposal Developent
 
-- Review this requirements document [The Structure and Requirements of Project Proposal and Final Report](Structure_Requirements.md)
+- Review this requirements document [Report_Template.md](Report_Template.md)
 - Find a topic and data sources for that topic.
 - Get the datasets and save them to the "data" subfolder.
 - Create a Jupyter Notebook to explore the datasets and save it to the "notebooks" folder
