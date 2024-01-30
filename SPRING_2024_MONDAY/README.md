@@ -4,10 +4,6 @@
 
 ## GitHub Repositories 
 
-- [Akkenapally, Hemanth](https://github.com/Hemanth-Akkenapally/UMBC-DATA606-Capstone)
-- [Allam, Nithinkumar](https://github.com/Nithin3636/UMBC-DATA606-Capstone/tree/main)
-- [Arthi Komma](https://github.com/arthik1699/UMBC-DATA606-CAPSTONE/tree/main)
-
 - [Akkenapally,Hemanth](https://github.com/Hemanth-Akkenapally/UMBC-DATA606-Capstone)
 - [Allam,Nithinkumar](https://github.com/Nithin3636/UMBC-DATA606-Capstone)
 - [Anantapalli,Sai Ruthvik](https://github.com/SaiRuthvik17/UMBC-DATA606-Capstone)
@@ -22,7 +18,7 @@
 - [Garlapati,Naveen](https://github.com/naveen02589/UMBC-DATA606-Capstone)
 - [Golamaru,Pardhasaradhireddy]()		
 - [Bhima,Manish]()		
-- [Gouni,Suryaprakashreddy]		
+- [Gouni,Suryaprakashreddy]()	
 - [Gurram,Meghalini](https://github.com/Meghalini/UMBC-DATA606-Capstone)
 - [Jaggari,Siddhidhatri Rohith Reddy](https://github.com/SiddhiRohith29/UMBC-DATA606-Capstone)
 - [Kavuri,Tejaswini](https://github.com/TejaswiniKav/UMBC-DATA606-Capstone)
