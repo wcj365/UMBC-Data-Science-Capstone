@@ -27,7 +27,7 @@
 - [Pallepati,Harikiran](https://github.com/harikiranpallepati/UMBC-DATA606-Capstone)
 - [Pentareddy,Manasvi](https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone)
 - [Surakanti,Anuhyareddy](https://github.com/anuhyasurakanti/UMBC-DATA606-Capstone)
-- [Toodi,Jathinsathyanathreddy]()		
+- [Toodi,Jathinsathyanathreddy]	
 - [Yekkirala,Venkata Rachana](https://github.com/RachanaYekkirala18/UMBC-DATA606-Capstone)
 
 
