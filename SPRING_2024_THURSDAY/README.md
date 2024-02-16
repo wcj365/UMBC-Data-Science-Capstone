@@ -15,7 +15,7 @@
 - [Chava,Lokesh](https://github.com/lokeshchava/UMBC-DATA606-Capstone/)
 - [Gaddam,Shiva Sahith](https://github.com/Sahith4311/UMBC-DATA606-Capstone)
 - [Golamaru, Pardhasaradhireddy]
-- [Kasireddy,Shivaramakrishna Reddy](https://github.com/DATA-606-2023-FALL-THURSDAY/KASIREDDY_SHIVARAMAKRISHNAREDDY)
+- [Kasireddy,Shivaramakrishna Reddy](https://github.com/shivakasireddy/UMBC-DATA606-SPRING2024-THURSDAY)
 - [Koppana,Sreesai Sameera](https://github.com/Sameera312001/UMBC-DATA606-Capstone)
 - [Kotar, Rohith](https://github.com/rohithkotar/UMBC-DATA606-Capstone)
 - [Kudikala,Sri Vaishnavi](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone)
