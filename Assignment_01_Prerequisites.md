@@ -13,13 +13,13 @@
 - Create a subfolder in this repository named "docs"
   - Create a README.md file in this subfolder
   - Create a resume using **Markdown** format (.md) and save it in the above repository with the file name: "Resume.md".
-  - **Don't use Jupyter Notebook**. Just use a plain text file.
-  - If you are not familiar with Markdown, please take some time to learn and practice it.
-  - Do not write HTML code in the Markdown file
-  - Your resume must be **well formatted/styled** and **professionally looking** by utilizing various **Markdown tags/syntaxes**. 
+  - **Don't use Jupyter Notebook**. Just use a plain text file for Resume.md file.
+  - If you are not familiar with Markdown, please take some time to learn and practice it - Google it.
+  - Do not write HTML code in the Markdown file. Only use Markdown tags.
+  - Your resume must be **well formatted/styled** and **professionally looking** by utilizing various **Markdown tags**. 
   - Your resume must include a picture of your **headshot photo**. Your headshot photo must be uploaded to the above repository.
   - Your resume must provide good details about your educations and experiences. 
-  - You resume also includes additional aspects such as certifications, personal interests, links to projects, etc. 
-  - Make sure provide your full name in your resume.
-- Submit the link to your GitHub repository to the assignment in Black Board. 
+  - You resume may also includes additional aspects such as certifications, personal interests, links to projects, etc. 
+  - Make sure provide your full name in your resume. Don't include you DoB or Gender. 
+- Submit the link of your GitHub repository to the assignment in Black Board. 
 - Don't attach any file to the submission in Black Board.
