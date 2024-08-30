@@ -10,8 +10,8 @@
 - Project Title
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Author Name 
-- Link to the author's GitHub profile
-- Link to the author's LinkedIn progile
+- Link to the author's GitHub repo of the project
+- Link to the author's LinkedIn profile
 - Link to your PowerPoint presentation file
 - Link to your YouTube video 
     
