@@ -1,16 +1,21 @@
 # UMBC Data Science Capstpone Fall 2025
 
-- **Instructor**: Dr. Chaojie (Jay) Wang
+## Instructor
+
+- **Name**: Dr. Chaojie (Jay) Wang
 - **Email**: jaywang@umbc.edu
 - **LinkedIn**:  https://www.linkedin.com/in/wcj365/
 - **WebEx**: https://umbc.webex.com/meet/jaywang
 
-[Group Email](mailto:umbc_data606_fall2025@googlegroups.com)
+## Class
 
-[Presentaion Schedule](https://docs.google.com/spreadsheets/d/1IU-3MEbd0uVJ3FjNdzbhLIJow9dnaL6AKFLinMuG0bk/edit?usp=sharing)
+To send email to all students, use this email address:
 
+**Group Email:** umbc_data606_fall2025@googlegroups.com
 
-Please update:
+## Presentaion Schedule
 
-- The "Topic" column: Your topic for the capstone.
-- The "GitHub Repo" column: The link to your GitHub repository created for the capstone
+- https://docs.google.com/spreadsheets/d/1IU-3MEbd0uVJ3FjNdzbhLIJow9dnaL6AKFLinMuG0bk/edit?usp=sharing
+- Please update:
+  - The "Topic" column: Your topic for the capstone project.
+  - The "GitHub Repo" column: The link to your GitHub repository created for the capstone project
