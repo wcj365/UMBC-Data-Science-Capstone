@@ -6,6 +6,7 @@
 - Please browse this repository for all information regarding this course:
   - https://github.com/wcj365/UMBC-Data-Science-Capstone/
   - Read the report templtate and assignments.
+  - Read the presentation requirements.
   - Get familar with the Presentation Schedule.
   - Browse projects from students of previous semesters
 
