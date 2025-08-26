@@ -5,6 +5,8 @@
 - **LinkedIn**:  https://www.linkedin.com/in/wcj365/
 - **WebEx**: https://umbc.webex.com/meet/jaywang
 
+To send email to everyone in the class: umbc_data606_fall2025@googlegroups.com
+
 [Presentaion Schedule](https://docs.google.com/spreadsheets/d/1Jc4chY2tpPjYuxZ3xHxrH8l6AFEg2Vri03qVxWD-6qk/edit?usp=sharing)
 
 
