@@ -2,11 +2,12 @@
 
 - Welcome aboard!
 - Please note first session is August 28, Thursday, in person.
+- The first assignment is due prior to the first session.
 - Please browse this repository for all information regarding this course:
   - https://github.com/wcj365/UMBC-Data-Science-Capstone/
-  - Pay attention to the assignments
-  - Browse projects from students of previous years/semesters
-
+  - Read the report templtate and assignments.
+  - Get familar with the Presentation Schedule.
+  - Browse projects from students of previous semesters
 
 ## Time/Location
 
