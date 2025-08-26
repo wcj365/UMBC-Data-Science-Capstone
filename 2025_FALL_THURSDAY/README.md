@@ -11,11 +11,11 @@
 
 To send email to all students, use this email address:
 
-umbc_data606_fall2025@googlegroups.com
+- umbc_data606_fall2025@googlegroups.com
 
 ## Presentaion Schedule
 
 - https://docs.google.com/spreadsheets/d/1IU-3MEbd0uVJ3FjNdzbhLIJow9dnaL6AKFLinMuG0bk/edit?usp=sharing
 - Please update:
-  - The "Topic" column: Your topic for the capstone project.
+  - The "Topic" column: Your topic/title for the capstone project.
   - The "GitHub Repo" column: The link to your GitHub repository created for the capstone project
