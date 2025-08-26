@@ -7,6 +7,12 @@
 - **LinkedIn**:  https://www.linkedin.com/in/wcj365/
 - **WebEx**: https://umbc.webex.com/meet/jaywang
 
+## Caselet
+
+- Dr. Karen Chen <lujiec@umbc.edu>
+- Ms.	Maryam Alomair <maryama4@umbc.edu>
+  
+
 ## Group Email
 
 To send email to all students, use this email address:
