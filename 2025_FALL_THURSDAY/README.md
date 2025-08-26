@@ -5,7 +5,7 @@
 - The first assignment is due prior to the first session.
 - Please browse this repository for all information regarding this course:
   - https://github.com/wcj365/UMBC-Data-Science-Capstone/
-  - Read the report templtate and assignments.
+  - Read the report template and assignments.
   - Read the presentation requirements.
   - Get familiar with the Presentation Schedule.
   - Browse projects from students of previous semesters
@@ -26,7 +26,6 @@
 
 - Dr. Karen Chen <lujiec@umbc.edu>
 - Ms.	Maryam Alomair <maryama4@umbc.edu>
-  
 
 ## Group Email
 
