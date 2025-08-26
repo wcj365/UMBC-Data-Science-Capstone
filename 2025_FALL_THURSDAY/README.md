@@ -1,5 +1,10 @@
 # UMBC Data Science Capstpone Fall 2025
 
+- **Instructor**: Dr. Chaojie (Jay) Wang
+- **Email**: jaywang@umbc.edu
+- **LinkedIn**:  https://www.linkedin.com/in/wcj365/
+- **WebEx**: https://umbc.webex.com/meet/jaywang
+
 [Presentaion Schedule](https://docs.google.com/spreadsheets/d/1Jc4chY2tpPjYuxZ3xHxrH8l6AFEg2Vri03qVxWD-6qk/edit?usp=sharing)
 
 
