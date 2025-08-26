@@ -7,7 +7,7 @@
 
 To send email to everyone in the class: umbc_data606_fall2025@googlegroups.com
 
-[Presentaion Schedule](https://docs.google.com/spreadsheets/d/1Jc4chY2tpPjYuxZ3xHxrH8l6AFEg2Vri03qVxWD-6qk/edit?usp=sharing)
+[Presentaion Schedule](https://docs.google.com/spreadsheets/d/1IU-3MEbd0uVJ3FjNdzbhLIJow9dnaL6AKFLinMuG0bk/edit?usp=sharing)
 
 
 Please update:
