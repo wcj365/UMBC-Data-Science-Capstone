@@ -1,5 +1,18 @@
 # UMBC Data Science Capstpone Fall 2025
 
+- Welcome aboard!
+- Please note first session is August 28, Thursday, in person.
+- Please browse this repository for all information regarding this course:
+  - https://github.com/wcj365/UMBC-Data-Science-Capstone/
+  - Pay attention to the assignments
+  - Browse projects from students of previous years/semesters
+
+
+## Time/Location
+
+- Thursdays 7:10PM - 9:40PM
+- Information Technology 233
+
 ## Instructor
 
 - **Name**: Dr. Chaojie (Jay) Wang
