@@ -7,7 +7,7 @@
   - https://github.com/wcj365/UMBC-Data-Science-Capstone/
   - Read the report template and assignments.
   - Read the presentation requirements.
-  - Get familiar with the [Presentation Schedule](https://docs.google.com/spreadsheets/d/101cTR3qP31rFyiSBdDkBnResngWPRi7uvY7JGtwqUII/edit?usp=drive_link).
+  - Get familiar with the [Presentation Schedule](https://docs.google.com/spreadsheets/d/101cTR3qP31rFyiSBdDkBnResngWPRi7uvY7JGtwqUII/edit?usp=sharing).
   - Browse projects from students of previous semesters
 
 ## Time/Location
@@ -35,7 +35,7 @@ To send email to all students and instructors, use this email address:
 
 ## Presentaion Schedule
 
-- https://docs.google.com/spreadsheets/d/101cTR3qP31rFyiSBdDkBnResngWPRi7uvY7JGtwqUII/edit?usp=drive_link
+- https://docs.google.com/spreadsheets/d/101cTR3qP31rFyiSBdDkBnResngWPRi7uvY7JGtwqUII/edit?usp=sharing
 - Please update:
   - The "Topic" column: Your topic/title for the capstone project.
   - The "GitHub Repo" column: The link to your GitHub repository created for the capstone project
