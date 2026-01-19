@@ -21,5 +21,4 @@
   - Your resume must provide good details about your educations and experiences. 
   - You resume may also includes additional aspects such as certifications, personal interests, links to projects, etc. 
   - Make sure provide your full name in your resume. Don't include you DoB or Gender. 
-- Submit the link of your GitHub repository to the assignment in Black Board. 
-- Don't attach any file to the submission in Black Board.
+- Copy the link of your GitHub repository to the [presentation schedule](https://docs.google.com/spreadsheets/d/101cTR3qP31rFyiSBdDkBnResngWPRi7uvY7JGtwqUII/edit?usp=drive_link). 
