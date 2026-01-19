@@ -7,7 +7,7 @@
   - https://github.com/wcj365/UMBC-Data-Science-Capstone/
   - Read the report template and assignments.
   - Read the presentation requirements.
-  - Get familiar with the Presentation Schedule.
+  - Get familiar with the [Presentation Schedule](https://docs.google.com/spreadsheets/d/101cTR3qP31rFyiSBdDkBnResngWPRi7uvY7JGtwqUII/edit?usp=drive_link).
   - Browse projects from students of previous semesters
 
 ## Time/Location
