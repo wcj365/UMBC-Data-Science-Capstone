@@ -2,7 +2,7 @@
 
 - Welcome aboard!
 - Please note first session is **Jan 29, Thursday, in person**.
-- The first assignment is due prior to the first session.
+- [The first assignment](https://github.com/wcj365/UMBC-Data-Science-Capstone/blob/main/Assignment_01_Prerequisites.md) is due prior to the first session.
 - Please browse this repository for all information regarding this course:
   - https://github.com/wcj365/UMBC-Data-Science-Capstone/
   - Read the report template and assignments.
