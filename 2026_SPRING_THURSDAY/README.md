@@ -29,7 +29,7 @@
 
 ## Group Email
 
-To send email to all students, use this email address:
+To send email to all students and instructors, use this email address:
 
 - umbc_data606_spring2026@googlegroups.com
 
