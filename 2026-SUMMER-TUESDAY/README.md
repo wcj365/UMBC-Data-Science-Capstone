@@ -1,7 +1,7 @@
 # UMBC Data Science Capstpone Summer 2026
 
 - Welcome aboard!
-- Please note first session is **June 26, Tuesday 6 - 8:40 PM WebEx**.
+- Please note first session is **May 26, Tuesday, 6pm - 8:40 PM Online via WebEx**.
 - [The first assignment](https://github.com/wcj365/UMBC-Data-Science-Capstone/blob/main/Assignment_01_Prerequisites.md) is due prior to the first session.
 - Please browse this repository for all information regarding this course:
   - https://github.com/wcj365/UMBC-Data-Science-Capstone/
