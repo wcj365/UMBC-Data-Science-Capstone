@@ -26,7 +26,7 @@
 
 To send email to all students and instructors, use this email address:
 
-- umbc_data606_summer2026@googlegroups.com
+- UMBC-DATA606-SUMMER-2026@googlegroups.com
 
 ## Presentaion Schedule
 
